@@ -25,25 +25,15 @@ Microsoft Excel
 The project follows an end-to-end data analytics workflow:
 
 Data Import
-
 Data Cleaning
-
 Data Transformation
-
 Data Type Validation
-
 Data Modeling
-
 Relationship Creation
-
 Calendar Table Creation
-
 DAX Measure Creation
-
 KPI Development
-
 Dashboard Design
-
 Business Insights
 
 🗂️ Data Model
