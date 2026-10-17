@@ -1,6 +1,7 @@
 Zomato Restaurant & Order Analysis | Power BI
 
 📌 Project Overview
+
 This project presents an interactive Zomato Restaurant & Order Analysis Dashboard developed using Power BI.
 
 The project focuses on cleaning and transforming restaurant and order data, building a structured data model, creating DAX measures, and developing interactive visualizations to analyze restaurant and order performance.
@@ -11,9 +12,13 @@ Dashboard.png
 🛠️ Tools & Technologies
 
 Power BI Desktop
+
 Power Query
+
 DAX
+
 Data Modeling
+
 Microsoft Excel
 
 🔄 Project Workflow
