@@ -54,8 +54,6 @@ The Calendar table enables time-based analysis of orders and revenue.
 Project Objective
 The objective of this project is to transform raw restaurant and order data into an interactive Power BI dashboard that supports data-driven analysis and makes key business trends easier to understand.
 
-Dashboard Preview
-<img width="797" height="180" alt="image" src="https://github.com/user-attachments/assets/7629dbe6-918d-4fde-9458-a96eba4abd8c" />
 
 
 
