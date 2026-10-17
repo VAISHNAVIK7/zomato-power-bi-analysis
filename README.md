@@ -9,6 +9,8 @@ The project focuses on cleaning and transforming restaurant and order data, buil
 📊 Dashboard Preview
 Dashboard.png
 
+
+
 🛠️ Tools & Technologies
 
 Power BI Desktop
@@ -21,20 +23,34 @@ Data Modeling
 
 Microsoft Excel
 
+
+
 🔄 Project Workflow
 The project follows an end-to-end data analytics workflow:
 
 Data Import
+
 Data Cleaning
+
 Data Transformation
+
 Data Type Validation
+
 Data Modeling
+
 Relationship Creation
+
 Calendar Table Creation
+
 DAX Measure Creation
+
 KPI Development
+
 Dashboard Design
+
 Business Insights
+
+
 
 🗂️ Data Model
 The Power BI model follows a fact-and-dimension approach using:
@@ -46,6 +62,8 @@ Dim_Restaurant – Restaurant information
 Dim_Date – Calendar table for time-based analysis
 
 The Calendar table enables analysis of revenue and orders across different time periods.
+
+
 
 🧮 Key DAX Measures
 Key measures created for the analysis include:
@@ -76,6 +94,8 @@ Order Change %
 
 Orders per Restaurant
 
+
+
 📈 Dashboard Analysis
 The dashboard covers:
 
@@ -97,6 +117,8 @@ Restaurant Rating by Price Range
 
 Restaurant-wise Sales Performance
 
+
+
 🎯 Key KPIs
 The completed dashboard reports:
 
@@ -108,6 +130,9 @@ Average Order Value: ₹1.04K
 
 Average Customer Rating: 3.03
 
+
+
+
 💡 Key Insights
 Mumbai contributes the highest share of total orders at approximately 23.5%.
 
@@ -118,6 +143,8 @@ Restaurant_56 is the highest-revenue restaurant in the dashboard, generating app
 Average restaurant ratings are similar across price ranges, with High and Medium at approximately 3.8 and Low at 3.7.
 
 Revenue shows noticeable variation across months rather than remaining constant throughout the year.
+
+
 
 🎛️ Dashboard Features
 
