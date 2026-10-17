@@ -6,11 +6,6 @@ This project is an interactive Power BI dashboard developed using Zomato restaur
 
 The project follows an end-to-end data analytics workflow, including data cleaning, transformation, data modeling, Calendar table creation, DAX measures, KPI development, and interactive dashboard design.
 ________________________________________
-**Dashboard Preview**
-
-! [ description ] (Dashboard.png )
-
-________________________________________
 **Tools & Technologies**
 
 •	Power BI Desktop
