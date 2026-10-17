@@ -21,6 +21,8 @@ DAX
 
 Data Modeling
 
+SQL
+
 Microsoft Excel
 
 
