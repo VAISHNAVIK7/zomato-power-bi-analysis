@@ -96,6 +96,9 @@ ________________________________________
 **Project Objective**
 
 The objective of this project is to transform raw restaurant and order data into an interactive Power BI dashboard that provides clear insights into revenue, ordering patterns, restaurant performance, customer ratings, and geographical trends.
+
+![description][Dashboard.png)
+
 ________________________________________
 **Author**
 
